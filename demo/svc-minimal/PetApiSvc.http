@@ -1,0 +1,6 @@
+@PetApiSvc_HostAddress = http://localhost:5163
+
+GET {{PetApiSvc_HostAddress}}/pets/
+Accept: application/json
+
+###
